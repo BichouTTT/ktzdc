@@ -1,4 +1,4 @@
-![head.png](https://media.discordapp.net/attachments/790712848984571905/850157309590372382/KTZ_low_banner.png)
+![head.png](https://media.discordapp.net/attachments/790712848984571905/850154370523594802/ktz.gif)
 
 <p align="center">
 ─────────────────────────────────────
@@ -8,7 +8,7 @@
 
 
 
-<img align='right' src="https://cdn2.scratch.mit.edu/get_image/user/16311207_60x60.png" width="230">
+    <img align='right' src="https://media.discordapp.net/attachments/790712848984571905/850159195525480478/original_2.gif" width="230">
 
 ```javascript
 const ktz = {
@@ -34,34 +34,34 @@ const ktz = {
 
 ![4po's github stats](https://github-readme-stats.vercel.app/api?username=4po&hide=contribs,prs&count_private=true&show_icons=true)
 
-<a href="https://github.com/4po">
+<a href="https://discord.gg/53AJ3rtHSv">
   <img src="https://img.shields.io/github/followers/4po">
 </a>
-<a href="https://github.com/4po">
+<a href="https://discord.gg/53AJ3rtHSv">
    <img src="https://komarev.com/ghpvc/?username=4po">
 </a>
-<a href="https://discord.bio/p/apo">
+<a href="https://discord.gg/53AJ3rtHSv">
          <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
          </a>
 
 <p align="center">
-   <a href="https://discord.gg/congo">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Animated-Flag-Russia_2.gif" width="78"> 
+   <a href="https://discord.gg/53AJ3rtHSv">
+         <img src="https://media.discordapp.net/attachments/790712848984571905/850159226240368650/source.gif" width="78"> 
 </p>
 
 <p align="center">
-         <a href="https://discord.gg/congo">
-         <img src="https://i.imgur.com/I4hP7T2.gif">
+         <a href="https://discord.gg/53AJ3rtHSv">
+         <img src="https://media.discordapp.net/attachments/790712848984571905/850157309590372382/KTZ_low_banner.png">
          </a>
       
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://twitter.com/4poUser" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @glock9v on GitHub">Follow @4po</a>
+<a class="github-button" href="https://twitter.com/ktzDC" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @glock9v on GitHub">Follow @4po</a>
 
 
 <br>
 
 ---
 
-🔎 From [@4po](https://github.com/4po)
-🔎 Instagram [@leonhski](https://www.instagram.com/leonhski/)
+🔎 From [@ktzDC](https://github.com/ktzdc)
+🔎 Tiktok [Soon]
