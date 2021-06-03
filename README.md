@@ -8,7 +8,7 @@
 
 
 
-    <img align='right' src="https://media.discordapp.net/attachments/790712848984571905/850159195525480478/original_2.gif" width="230">
+    <var ktz = new TropHlou>
 
 ```javascript
 const ktz = {
