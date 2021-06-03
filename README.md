@@ -1,19 +1,19 @@
-![head.png](https://imgur.com/lpTg8lH.gif)
+![head.png](https://media.discordapp.net/attachments/790712848984571905/850154370523594802/ktz.gif)
 
 <p align="center">
 ─────────────────────────────────────
 </p>
 
-Hi there, thanks for stopping by, this is **Leonhart B. apo**.
+**Hey !**
 
-And go listen my new song on soundcloud https://soundcloud.com/4po
+
 
 <img align='right' src="https://cdn2.scratch.mit.edu/get_image/user/16311207_60x60.png" width="230">
 
 ```javascript
-const 4po = {
-    pronouns: "He" | "Him",
-    askMeAbout: ["web dev", "tech", "game"],
+const ktz = {
+    name: "hamza" | "ktz",
+    : ["web dev", "tech", "game"],
     technologies: {
         frontEnd: {
             js: ["Vue", "React", "Angular"],
