@@ -56,7 +56,7 @@ const ktz = {
       
 
 <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://twitter.com/ktzDC" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @glock9v on GitHub">Follow @4po</a>
+<a class="github-button" href="https://twitter.com/ktzDC" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true" aria-label="Follow @glock9v on GitHub">Follow @ktzDC sur Twitter</a>
 
 
 <br>
@@ -65,3 +65,9 @@ const ktz = {
 
 🔎 From [@ktzDC](https://github.com/ktzdc)
 🔎 Tiktok [Soon]
+
+
+
+
+    
+    Cd : 4po
