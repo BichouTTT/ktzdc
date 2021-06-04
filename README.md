@@ -70,7 +70,7 @@ const ktz = {
 🔎 Tiktok [Soon]
 
 
-<a href="https://www.buymeacoffee.com/rampatra" target="_blank"><img src="http://paypal.com/ktz" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
 
     
     Cd : 4po
