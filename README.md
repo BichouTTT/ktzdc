@@ -8,7 +8,7 @@
 
 
 
-    <var ktz = new TropHlou>
+    <var ktz = new TropHlou()>
 
 ```javascript
 const ktz = {
