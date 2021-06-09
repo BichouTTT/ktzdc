@@ -10,6 +10,7 @@ Je suis un jeune étudiant agées de 15 ans, qui se lance dans la Cyber-Securit�
 
 N'hésite pas à me follow sur tweeter ! [ ktzDC ]
 
+<img align='right' src="https://cdn2.scratch.mit.edu/get_image/user/16311207_60x60.png" width="230">
 
     <var ktz = new TropHlou()>
 
