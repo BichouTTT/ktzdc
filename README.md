@@ -10,7 +10,7 @@ Je suis un jeune étudiant agées de 15 ans, qui se lance dans la Cyber-Securit�
 
 N'hésite pas à me follow sur tweeter ! [ ktzDC ]
 
-<img align='right' src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Faizen-sousuke&psig=AOvVaw2rnDEkLt4wsXnN4ey-iU6n&ust=1623296820196000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKiX3ITSifECFQAAAAAdAAAAABAK" width="230">
+<img align='right' src="https://media.discordapp.net/attachments/850489555822968912/852031691304468530/tumblr_lrslxpZd3s1qcuoflo1_500.gif">
 
     <var ktz = new TropHlou()>
 
