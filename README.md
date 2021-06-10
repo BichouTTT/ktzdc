@@ -59,11 +59,18 @@ Go           3m mins          ▒░░░░░░░░░░░░░░░�
    <a href="https://discord.gg/53AJ3rtHSv">
          <img src="https://media.discordapp.net/attachments/790712848984571905/850159226240368650/source.gif" width="78"> 
 </p>
+    
+    <p align="center">
+         <a href="https://discord.gg/53AJ3rtHSv">
+         <img src="https://media.discordapp.net/attachments/850489555822968912/852366205213605898/Sans_titre-4.png">
+         </a>
 
 <p align="center">
          <a href="https://discord.gg/53AJ3rtHSv">
          <img src="https://media.discordapp.net/attachments/790712848984571905/850157309590372382/KTZ_low_banner.png">
          </a>
+    
+    
       
 
 <!-- Place this tag where you want the button to render. -->
