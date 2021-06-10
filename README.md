@@ -15,13 +15,13 @@ N'hésite pas à me follow sur tweeter ! [ ktzDC ]
     <var ktz = new TropHlou()>
 
 ```javascript
--const ktz = {
+const -M ktz = {
     name: "hamza" | "ktz",
     reseaux: {
             insta: ["Soon"],
             snap: ["ktzDC"]
         },
-        -Dev: {
+        Dev: {
         
         languages-M: ["JS", "lua"]
         languages-L: ["ruby", "python", "TypeScript"]
