@@ -1,4 +1,4 @@
-![head.png](https://media.discordapp.net/attachments/790712848984571905/850154370523594802/ktz.gif)
+![head.png](https://media.discordapp.net/attachments/843656839598178337/852355957253472296/3IC3.gif)
 
 <p align="center">
 ─────────────────────────────────────
