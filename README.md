@@ -30,7 +30,7 @@ const ktz = {
 };
 ```
 
-### Languages M/L/WL <br/> <br/> ![Python](https://media.discordapp.net/attachments/843656839598178337/852352435895795712/python.jpg) ![HTML](https://media.discordapp.net/attachments/843656839598178337/852353755218968586/6874.jpg) ![CSS](https://media.discordapp.net/attachments/843656839598178337/852353756610691082/ni.jpg) ![JavaScript](https://media.discordapp.net/attachments/843656839598178337/852355368607678464/0-0-0.jpg) ![nodejs](https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white)
+### Languages M/L/WL <br/> <br/> ![Python](https://media.discordapp.net/attachments/843656839598178337/852352435895795712/python.jpg) ![HTML](https://media.discordapp.net/attachments/843656839598178337/852353755218968586/6874.jpg) ![CSS](https://media.discordapp.net/attachments/843656839598178337/852360458756948018/0-0-0.jpg) ![JavaScript](https://media.discordapp.net/attachments/843656839598178337/852355368607678464/0-0-0.jpg) ![nodejs](https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white)
 
 <p align="center">
 ─────────────────────────────────────
