@@ -7,7 +7,7 @@
 
 - 🏴‍☠️ 💻 En ce moment sois je suis Discord ou j'apprend de nouveaux langages !
 - 🏴‍☠️ J'apprend ses langages : Javascript | Python | Lua | TypeScript | Html/CSS/Php ( à voir ) 
-- 🏴‍☠️ Vous pouvez me demander de l'aide si vous voulez si je peux vous apportez de l'aide gratuitement bien sur et si j'arriverai :D
+- 🏴‍☠️ Vous pouvez me demander de l'aide si vous voulez si je peux vous apportez de l'aide gratuitement bien sur et si j'arriverai
 - 🏴‍☠️ Pour me rejoindre via discord : indétrônable#7318
 
 -------
