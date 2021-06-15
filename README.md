@@ -3,6 +3,15 @@
 <p align="center">
 ─────────────────────────────────────
 </p>
+  **Affaires Personnelles:**
+
+- 🏴‍☠️ 💻 En ce moment sois je suis Discord ou j'apprend de nouveaux langages !
+- 🏴‍☠️ J'apprend ses langages : Javascript | Python | Lua | TypeScript | Html/CSS/Php ( à voir ) 
+- 🏴‍☠️ Vous pouvez me demander de l'aide si vous voulez si je peux vous apportez de l'aide gratuitement bien sur et si j'arriverai :D
+- 🏴‍☠️ Pour me rejoindre via discord : indétrônable#7318
+
+-------
+
 
 **Hey !**
 
@@ -30,7 +39,15 @@ const -M ktz = {
 };
 ```
 
-### Languages M/L/WL <br/> <br/> ![Python](https://media.discordapp.net/attachments/843656839598178337/852352435895795712/python.jpg) ![HTML](https://media.discordapp.net/attachments/843656839598178337/852353755218968586/6874.jpg) ![CSS](https://media.discordapp.net/attachments/843656839598178337/852360458756948018/0-0-0.jpg) ![JavaScript](https://media.discordapp.net/attachments/843656839598178337/852355368607678464/0-0-0.jpg) ![nodejs](https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white)
+### Languages M/L/WL <br/> <br/>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
 
 <p align="center">
 ─────────────────────────────────────
