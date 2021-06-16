@@ -56,13 +56,13 @@ const -M ktz = {
 
 
 
-<a href="https://discord.gg/53AJ3rtHSv">
+<a href="https://ktz.netlify.app/">
   <img src="https://img.shields.io/github/followers/ktzDC">
 </a>
-<a href="https://discord.gg/53AJ3rtHSv">
+<a href="https://ktz.netlify.app/">
    <img src="https://komarev.com/ghpvc/?username=ktzDC">
 </a>
-<a href="https://discord.gg/53AJ3rtHSv">
+<a href="https://ktz.netlify.app/">
          <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
          </a>
 
