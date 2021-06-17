@@ -19,7 +19,7 @@ Je suis un jeune étudiant agées de 15 ans, qui se lance dans la Cyber-Securit�
 
 N'hésite pas à me follow sur tweeter ! [ ktzDC ]
 
-<img align='right' src="https://media.discordapp.net/attachments/843656839598178337/852361412902256640/0-0-0.jpg">
+<img align='right' src="https://media.discordapp.net/attachments/802575638879272991/855206205794680832/unknown.png">
 
     <var ktz = new TropHlou()>
 
